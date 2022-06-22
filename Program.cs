@@ -2,7 +2,7 @@
 //5 ---> buzz
 //3 and 5 ---> fizzbuzz
 
-Console.WriteLine("What is the number you'd like me to interate to?");
+Console.WriteLine("What is the number you'd like me to iterate to?");
 int num = int.Parse(Console.ReadLine());
 
 for (int i = 1; i <= num; i++) {
